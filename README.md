@@ -16,7 +16,7 @@
 <img align="left" width="100" height="100" src="https://github.com/user-attachments/assets/0faf6075-273b-4b74-92d6-dccab7f4b964">
 
 
-# iTorrent - iOS Torrent client App
+# iTorrent neo - iOS Torrent client App (fork of [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) with full iPhone Duo support)
 [![AltStore Classic Button]][AltStore Classic Link]
 [![SideStore Button]][SideStore Link]
 [![GitHub Button]][GitHub Link]

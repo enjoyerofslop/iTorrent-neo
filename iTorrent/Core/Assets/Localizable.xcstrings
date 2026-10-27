@@ -4786,7 +4786,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTorrent"
+            "value" : "iTorrent neo"
           }
         },
         "es" : {
@@ -5660,7 +5660,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To add new torrents you can press '+' icon in the bottom-left corner or by opening torrent file directly from Files app or Web Browser"
+            "value" : "To add new torrents press the '+' icon or open torrent file directly from Files app or Web Browser"
           }
         },
         "es" : {
@@ -5706,7 +5706,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Welcome to iTorrent"
+            "value" : "Welcome to iTorrent neo"
           }
         },
         "es" : {

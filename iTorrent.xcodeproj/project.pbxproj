@@ -2265,6 +2265,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iTorrent/Core/Assets/Info.plist;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_CFBundleDisplayName = "iTorrent neo";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "iTorrent uses the local network to discover playback devices and cast video on your network.";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
@@ -2414,6 +2415,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iTorrent/Core/Assets/Info.plist;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_CFBundleDisplayName = "iTorrent neo";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "iTorrent uses the local network to discover playback devices and cast video on your network.";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
@@ -2663,6 +2665,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = iTorrent/Core/Assets/Info.plist;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
+				INFOPLIST_KEY_CFBundleDisplayName = "iTorrent neo";
 				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "iTorrent uses the local network to discover playback devices and cast video on your network.";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
