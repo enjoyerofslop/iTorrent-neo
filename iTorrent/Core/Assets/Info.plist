@@ -4,7 +4,7 @@
 <dict>
 	<key>BGTaskSchedulerPermittedIdentifiers</key>
 	<array>
-		<string>com.xitrix.itorrent.refresh</string>
+		<string>com.enjoyerofslop.itorrentneo.refresh</string>
 	</array>
 	<key>CFBundleDocumentTypes</key>
 	<array>
