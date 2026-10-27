@@ -57,7 +57,7 @@ private extension AppDelegate {
                    let remoteURL = URL(string: remoteURI) {
                     updateURL = remoteURL
                 } else {
-                    updateURL = URL(string: "https://github.com/XITRIX/iTorrent")!
+                    updateURL = URL(string: "https://github.com/enjoyerofslop/iTorrent-neo")!
                 }
 
                 await UIApplication.shared.open(updateURL)

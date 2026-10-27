@@ -30,13 +30,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTorrent"
+            "value" : "iTorrent neo"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iTorrent"
+            "value" : "iTorrent neo"
           }
         }
       }
@@ -48,7 +48,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
-            "value" : "iTorrent uses the local network to discover playback devices and cast video on your network."
+            "value" : "iTorrent neo uses the local network to discover playback devices and cast video on your network."
           }
         }
       }
